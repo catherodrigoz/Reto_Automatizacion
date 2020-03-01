@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="add to new product and verify" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-01T03:46:56" hostname="DESKTOP-QP8K6R7" time="31.775">
+  <properties/>
+  <testcase name="add product to shopping cart" classname="add to new product and verify" time="31.775"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[feb 29, 2020 10:46:57 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 72.0.3626.69 (3c16f8a135abc0d4da2dff33804db79b849a7c38) on port 20106
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1583034422.894][WARNING]: Timed out connecting to Chrome, retrying...
+feb 29, 2020 10:47:04 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: add product to shopping cart
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
