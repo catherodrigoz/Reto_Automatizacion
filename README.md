@@ -3,7 +3,8 @@ Este proyecto tiene como objetivo mostrar la implementación de una prueba
 que agregue un producto  al carrito de compras y valide que se agrego exitosamente.
 
 Comenzando 🚀
-git clone https://github.com/serenity-bdd/serenity-rest-starter.git
+
+git clone git clone https://github.com/catherodrigoz/Reto_Automatizacion.git
 
 
 Pre-requisitos 📋
